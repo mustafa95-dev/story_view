@@ -795,7 +795,7 @@ class StoryProgressIndicator extends StatelessWidget {
 
   StoryProgressIndicator(
     this.value, {
-    this.indicatorHeight = 2,
+    this.indicatorHeight = 0.5,
   });
 
   @override
